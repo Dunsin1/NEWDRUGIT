@@ -1,0 +1,38 @@
+.main-nav {
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+.navbar-color {
+    background: #5940D1;
+}
+.logo {
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 5%;
+}
+.x {
+    color: #00FF00;
+}
+.ure {
+    color: #FFFFFF;
+}
+.med {
+    color: #000000;
+}
+.xuremedcommunity {
+    display: flex;
+    align-content: center;
+    justify-items: center;
+}
+.closebutton {
+    width: 70px;
+    margin-left: 94%;
+    align-items: center;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    border-color: #5940D1;
+    background-color: #5940D1;
+    border: #5940D1;
+}
